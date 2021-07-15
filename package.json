@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "js": "^0.1.0",
-    "lodash.debounce": "^4.0.8"
+    "lodash.debounce": "^4.0.8",
+    "notiflix": "^3.0.1"
   }
 }
